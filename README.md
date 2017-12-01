@@ -1,4 +1,4 @@
-# Aprendizaje no sueprvisado
+# Aprendizaje no supervisado
 
 En esta tarea vamos a incluir un ejemplo, en forma de libreta de *Jupyter* sobre el uso de el análisis en componentes principales (PCA según el buen `bigdata guy`) combinado con las K-medias como una forma de analizar datos y buscar relaciones entre ellos (algo que se sule llamar KDD por *Knowledge Discovery in Datasets*).
 
