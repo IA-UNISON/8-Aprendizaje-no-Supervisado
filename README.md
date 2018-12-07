@@ -1,6 +1,13 @@
-# Aprendizaje no supervisado
+![](ia.png)
 
-En esta tarea vamos a incluir un ejemplo, en forma de libreta de
+# Introduccion al aprendizaje no supervisado
+
+**Evaluación de competencias 8**
+
+
+## Objetivo
+
+En esta actividad vamos a incluir un ejemplo, en forma de libreta de
 *Jupyter* sobre el uso de el análisis en componentes principales (PCA)
 combinado con las K-medias como una forma de analizar datos y buscar
 relaciones entre ellos (algo que se sule llamar KDD por *Knowledge
@@ -23,12 +30,10 @@ INEGI](http://www.inegi.org.mx). Para este problema se tienen 37
 indicadores, los cuales se pueden regrupar en 12 macro indicadores
 (establecidos todos por la OCDE para comparar los niveles de bienestar
 de la población en diferentes paises). Los indicadores se encuentran
-en los archivos `ndicadores bienestar 2014.xlsx` e
+en los archivos `indicadores bienestar 2014.xlsx` e
 `indicadores_bienestar_2014.csv` cada uno en su formato
 correspondiente (se anexa el archivo de Excel para el que le guste
-usar hojas de calculo, y revisar los macroindicadores). Se espera que
-se realice un análisis similar y que se discutan los resultados.
+usar hojas de calculo, y revisar los macroindicadores). 
 
-Como para esta tarea se requiere el uso de `DataFrames` de la
-biblioteca *Pandas*, se anexa una libreta tutorial de introducción a
-Pandas, la cual es opcional.
+Se espera que se realice un análisis de los datos utilizando cualquiera conjunto de herramientas de aprendizaje no supervisado y que se discutan los resultados. Lo más importante en este trabajo es la discusión y el análisis sobre el descubrimiento de relaciones que se obtiene entre estados (y bienestar de los estados) a partir de los datos.
+
